@@ -1,0 +1,6 @@
+{
+  "name": "AI Storyboard Video Studio",
+  "description": "Platform produksi video animasi sinematik berbasis AI dari ide cerita, naskah, referensi karakter konsisten, storyboard 2 kolom, audio multi-track, hingga ekspor MP4 1080x1920 30FPS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
